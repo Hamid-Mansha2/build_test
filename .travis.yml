@@ -2,4 +2,5 @@ language: generic
 dist: focal
 
 script:
-  - true
+  - echo "Running the build script"
+  - echo "This is just a test"
